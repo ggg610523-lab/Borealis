@@ -20,6 +20,7 @@ This is an experimental porting kit inspired by Winlator by brunoDev the main pu
 <b>TODO</b>:USE SOMETHING SIMILAR TO INPUTBRIDGE TO MAP XINPUT FOR KEYBOARD OR MOUSE <br>
 <b>TODO</b>: ABILITY TO ADD CUSTOM ICON FOR THE APP.
 </center>
-<p>nothing is planned ! as of now </p>
+<b>
+<p>nothing is planned ! as of now </p></b>
 
 <b><i>I do not Own Winlator , Wine or Windows </i></b>
