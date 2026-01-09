@@ -14,13 +14,12 @@ This is an experimental porting kit inspired by Winlator by brunoDev the main pu
 <h1><b>GOALS</b></h1>
 
 
-
-
+<center>
 <b>TODO</b>:USE BOX-64 AS TRANSLATION FOR X86/64 TO ARM <br>
 <b>TODO</b>:BOOT A MINIMAL ISO ON X11 SESSION OR MAYBE FORK WINLATOR <br>
 <b>TODO</b>:USE SOMETHING SIMILAR TO INPUTBRIDGE TO MAP XINPUT FOR KEYBOARD OR MOUSE <br>
 <b>TODO</b>: ABILITY TO ADD CUSTOM ICON FOR THE APP.
+</center>
 
 
-
-====================I do not Own Winlator , Wine or Windows =====================================
+<b><i>I do not Own Winlator , Wine or Windows </i></b>
