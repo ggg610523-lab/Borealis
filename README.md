@@ -9,7 +9,11 @@ This is an experimental porting kit based on Winlator by brunoDev the main purpo
 
 
 
-/=======GOALS=====================/
+<h1><b>/=======GOALS=====================/</b></h1>
+
+
+
+
 TODO:USE BOX-64 AS TRANSLATION FOR X86/64 TO ARM 
 TODO:BOOT A MINIMAL ISO ON X11 SESSION OR MAYBE FORK WINLATOR 
 TODO:USE SOMETHING SIMILAR TO INPUTBRIDGE TO MAP XINPUT FOR KEYBOARD OR MOUSE ; 
