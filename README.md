@@ -1,4 +1,4 @@
-# Borealis
+# Borealis (experimental portingkit for android)
 <h1>
 <center>
 Wine Porting toolkit for Android</center>
